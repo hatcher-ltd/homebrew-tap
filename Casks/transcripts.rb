@@ -1,6 +1,6 @@
 cask "transcripts" do
   version "1.0.0-beta.1"
-  sha256 "be66c325b35ebee790ae675dfa848b63f603e4faeb3d0de8284dfb5338f6824c"
+  sha256 "e9556ff7d47386ef77cc7154624a57144d8845406e5d72de70b86a1e04bef0c8"
 
   url "https://transcripts.hatcher.ltd/Transcripts-#{version}.zip"
   name "Transcripts"
